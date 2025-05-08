@@ -46,3 +46,24 @@ The **requirement analysis** process involves several key activities to ensure t
 
 - **Requirement Validation**
    - The final step involves ensuring that the gathered and documented requirements align with the stakeholder’s expectations and are technically feasible. Validation checks confirm that the requirements are accurate, complete, and realistic before moving forward in the SDLC.
+## Types of Requirements
+
+### Functional Requirements
+Functional requirements describe the specific functionality that the system must support. These are the features or behaviors the system must provide to fulfill its purpose.
+
+**Examples for the Booking Management Project:**
+- **Booking Creation**: The system must allow users to book appointments by selecting a service, date, and time.
+- **Booking Confirmation**: The system must send a confirmation email to the user upon successful booking.
+- **Booking Modification**: Users should be able to modify an existing booking, such as changing the time or service.
+- **Cancellation**: The system must allow users to cancel a booking within a certain timeframe and receive a notification about the cancellation.
+- **Payment Integration**: The system should integrate with a payment gateway to process booking payments.
+
+### Non-functional Requirements
+Non-functional requirements specify how the system performs certain tasks, rather than what tasks it performs. These include performance, security, usability, and other quality attributes.
+
+**Examples for the Booking Management Project:**
+- **Performance**: The system must be able to handle up to 500 concurrent bookings without degrading performance.
+- **Security**: The system must use encryption (SSL/TLS) for secure data transmission, especially for user payment information.
+- **Usability**: The booking system should have an intuitive and user-friendly interface, ensuring users can easily book, modify, or cancel their appointments.
+- **Scalability**: The system should be able to scale to accommodate additional users or services as the business grows.
+- **Availability**: The system must be available 99.9% of the time, with downtime only occurring during scheduled maintenance.
