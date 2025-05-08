@@ -28,3 +28,21 @@ It ensures that everyone understands what the system should do and under what co
 - Enhances **team communication**.
 - Aids in **resource and time estimation**.
 - Helps deliver a **successful and usable product**.
+## Key Activities in Requirement Analysis
+
+The **requirement analysis** process involves several key activities to ensure the software is built according to the specified requirements. Below are the key activities that are typically part of the **Requirement Analysis** phase:
+
+- **Requirement Gathering**
+   - This is the first step where information is collected from all relevant stakeholders, including customers, users, and subject matter experts. The goal is to understand the user’s needs, business goals, and any specific constraints or requirements.
+   
+- **Requirement Elicitation**
+   - This involves actively engaging stakeholders to uncover and clarify their needs. Techniques such as interviews, surveys, workshops, and brainstorming sessions are often used to get detailed information about the system’s functionality and performance.
+
+- **Requirement Documentation**
+   - Once the requirements have been gathered and elicited, they need to be documented clearly and in a structured format. The documentation serves as a reference for all project stakeholders and includes functional and non-functional requirements, constraints, and business objectives.
+
+- **Requirement Analysis and Modeling**
+   - In this phase, the requirements are analyzed for completeness, consistency, and feasibility. Modeling techniques such as use case diagrams, data flow diagrams (DFD), and entity-relationship diagrams (ERD) are used to visualize the system’s behavior and structure.
+
+- **Requirement Validation**
+   - The final step involves ensuring that the gathered and documented requirements align with the stakeholder’s expectations and are technically feasible. Validation checks confirm that the requirements are accurate, complete, and realistic before moving forward in the SDLC.
