@@ -10,8 +10,7 @@ The purpose of this repository is to provide insights, examples, and practical k
 - [Best Practices](#)
 - [Tools for Requirement Gathering](#)
 - [Case Studies](#)
-- ## What is Requirement Analysis?
-
+  ## Why is Requirement Analysis Important?
 **Requirement Analysis** is a critical phase in the **Software Development Life Cycle (SDLC)** where stakeholders—clients, users, and developers—collaborate to gather, analyze, and define the exact requirements of a software product.
 
 It ensures that everyone understands what the system should do and under what conditions it should operate. This prevents costly misunderstandings and helps the development team build the right product.
