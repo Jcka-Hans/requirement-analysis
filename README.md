@@ -67,3 +67,18 @@ Non-functional requirements specify how the system performs certain tasks, rathe
 - **Usability**: The booking system should have an intuitive and user-friendly interface, ensuring users can easily book, modify, or cancel their appointments.
 - **Scalability**: The system should be able to scale to accommodate additional users or services as the business grows.
 - **Availability**: The system must be available 99.9% of the time, with downtime only occurring during scheduled maintenance.
+## Types of Requirements
+
+### Functional Requirements
+Functional requirements describe the specific functionality that the system must support. These are the features or behaviors the system must provide to fulfill its purpose.
+
+**Examples for the Booking Management Project:**
+- **Booking Creation**: The system must allow users to book appointments by selecting a service, date, and time.
+- **Booking Confirmation**: The system must send a confirmation email to the user upon successful booking.
+
+### Non-functional Requirements
+Non-functional requirements specify how the system performs certain tasks, rather than what tasks it performs. These include performance, security, usability, and other quality attributes.
+
+**Examples for the Booking Management Project:**
+- **Performance**: The system must be able to handle up to 500 concurrent bookings without degrading performance.
+- **Security**: The system must use encryption (SSL/TLS) for secure data transmission, especially for user payment information.
