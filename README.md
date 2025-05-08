@@ -28,4 +28,3 @@ It ensures that everyone understands what the system should do and under what co
 - Enhances **team communication**.
 - Aids in **resource and time estimation**.
 - Helps deliver a **successful and usable product**.
-
