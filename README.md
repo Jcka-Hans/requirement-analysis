@@ -30,3 +30,24 @@ It ensures that everyone understands what the system should do and under what co
 - Helps deliver a **successful and usable product**.
 
 In short, requirement analysis is the blueprint of your software—it tells you *what to build* before you start building.
+## Types of Requirements
+
+In software development, requirements are categorized to ensure that every aspect of the system is properly captured and addressed. The main types include:
+
+### 1. Functional Requirements  
+These describe **what the system should do**. They define the core functions and features of the software—such as processing data, user authentication, or generating reports.  
+📌 *Example: The system shall allow users to reset their password via email.*
+
+### 2. Non-Functional Requirements  
+These describe **how the system should perform** rather than what it should do. They cover performance, usability, security, reliability, and scalability.  
+📌 *Example: The system should be able to handle 1,000 concurrent users without crashing.*
+
+### 3. Business Requirements  
+These are **high-level goals** of the organization or client. They reflect the broader business objectives that the software is meant to support.  
+📌 *Example: Improve online customer retention by 20% within six months of product launch.*
+
+### 4. Technical Requirements  
+These specify the **technical aspects and constraints** such as the technology stack, integration with other systems, or database structures.  
+📌 *Example: The application must use PostgreSQL for data storage.*
+
+By identifying and organizing these requirement types, developers and stakeholders gain a **comprehensive understanding** of what the software must deliver
