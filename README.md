@@ -92,3 +92,4 @@ Use Case Diagrams are a crucial part of the requirement analysis process. They p
 - **Enhances communication**: Helps stakeholders (developers, business analysts, and clients) align on what the system should do.
 
 Below is the use case diagram for the booking system:
+![Use Case Diagram](alx-booking-uc.png)
