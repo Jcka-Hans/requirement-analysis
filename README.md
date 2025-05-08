@@ -82,3 +82,13 @@ Non-functional requirements specify how the system performs certain tasks, rathe
 **Examples for the Booking Management Project:**
 - **Performance**: The system must be able to handle up to 500 concurrent bookings without degrading performance.
 - **Security**: The system must use encryption (SSL/TLS) for secure data transmission, especially for user payment information.
+## Use Case Diagrams
+
+Use Case Diagrams are a crucial part of the requirement analysis process. They provide a visual representation of the interactions between **actors** (users or systems) and the system itself. This diagram helps to understand the functional requirements of the system and clarifies how different actors interact with the system.
+
+### Benefits of Use Case Diagrams:
+- **Clarifies system functionality**: By visualizing interactions, it is easier to understand how the system should operate.
+- **Helps in requirement gathering**: Identifies all necessary interactions between actors and the system.
+- **Enhances communication**: Helps stakeholders (developers, business analysts, and clients) align on what the system should do.
+
+Below is the use case diagram for the booking system:
