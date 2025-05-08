@@ -110,3 +110,18 @@ Below is the use case diagram for the booking system:
 - ✅ The system must verify payment before confirming the booking.
 - ✅ A confirmation message must be displayed after a successful transaction.
 - ✅ A confirmation email should be sent to the user.
+### What is Requirement Analysis?
+
+Requirement Analysis is a critical phase in the Software Development Life Cycle (SDLC) where developers and stakeholders gather, understand, and define the exact needs and expectations of users for a software system. It serves as the foundation for all subsequent stages of development, ensuring that the final product meets the intended purpose.
+
+This process involves:
+- Identifying the needs of the end users.
+- Documenting functional and non-functional requirements.
+- Analyzing, validating, and prioritizing the collected information.
+- Ensuring all stakeholders have a clear and shared understanding of what the software should do.
+
+In the SDLC, Requirement Analysis is essential because it:
+- Prevents misunderstandings and miscommunication.
+- Helps define the project scope clearly.
+- Reduces the risk of costly changes and rework during development.
+- Ensures alignment between the development team and stakeholders.
